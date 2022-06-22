@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 3b6972dd88ab15446bf6d0d00c523ba7
+labels:
+- Car
+- Paint
+- Pro
+- Shader
+timeCreated: 1510820237
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _BumpMap: {instanceID: 0}
+  - _MetallicGlossMap: {instanceID: 0}
+  - _FlakesMask: {fileID: 2800000, guid: 2741be98b31d56c43ad9cfbcaf99a799, type: 3}
+  - _FlakesNormal: {fileID: 2800000, guid: a268ab862991c4743a9281c69bb2c36a, type: 3}
+  - _ReflectonCubeMap: {fileID: 8900000, guid: c12366ae681d91a44926c2d19d8c1734, type: 3}
+  - _ClearCoatNormal: {fileID: 2800000, guid: b3d940e75e1f5d24684cd93a2758e1bf, type: 3}
+  - _1Decal: {instanceID: 0}
+  - _2Decal: {instanceID: 0}
+  - _3Decal: {instanceID: 0}
+  - _4Decal: {instanceID: 0}
+  - _5Decal: {instanceID: 0}
+  - _temp: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

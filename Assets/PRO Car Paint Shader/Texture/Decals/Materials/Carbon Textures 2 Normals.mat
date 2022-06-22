@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Carbon Textures 2 Normals
+  m_Shader: {fileID: 4800000, guid: a43c2982724d8994e9cee1628a1979be, type: 3}
+  m_ShaderKeywords: _REFLECTIONCOLOROVERRIDE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _5Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 79431714132880f4c97ba5c40279a9dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatcapTexture:
+        m_Texture: {fileID: 2800000, guid: 730675df96a48584dba64327393b25b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionCubeMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FresnelPaintExponent: 1
+    - _FresnelScale: 0
+    - _ReflectionBlur: 1
+    - _ReflectionColorOverride: 1
+    - _ReflectionExponent: 0.5
+    - _ReflectionIntensity: 0.75
+    - _ReflectionStrength: 0.2
+    m_Colors:
+    - _1DecalColor: {r: 1, g: 0.5, b: 0, a: 1}
+    - _2DecalColor: {r: 1, g: 0.5, b: 0, a: 1}
+    - _3DecalColor: {r: 1, g: 0.5, b: 0, a: 1}
+    - _4DecalColor: {r: 1, g: 0.5, b: 0, a: 1}
+    - _5DecalColor: {r: 1, g: 0.5, b: 0, a: 1}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondaryPaint: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

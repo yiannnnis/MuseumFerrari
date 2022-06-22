@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a43c2982724d8994e9cee1628a1979be
+timeCreated: 1511042022
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _MatcapTexture: {fileID: 2800000, guid: 730675df96a48584dba64327393b25b4, type: 3}
+  - _MainTex: {instanceID: 0}
+  - _ReflectonCubeMap: {fileID: 8900000, guid: c12366ae681d91a44926c2d19d8c1734, type: 3}
+  - _MetallicGlossMap: {instanceID: 0}
+  - _1Decal: {instanceID: 0}
+  - _2Decal: {instanceID: 0}
+  - _3Decal: {instanceID: 0}
+  - _4Decal: {instanceID: 0}
+  - _5Decal: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
